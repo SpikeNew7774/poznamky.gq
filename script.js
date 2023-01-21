@@ -107,8 +107,12 @@ addBtn.addEventListener("click", e => {
 
 
 
+
+
+
+
 const popupic = document.querySelector(".popup-ichecker"),
-wifiIcon = document.querySelector(".icon i"),
+wifiIcon = document.querySelector(".iconIC i"),
 popupTitleIC = document.querySelector(".popup-ichecker .title"),
 popupDesc = document.querySelector(".desc"),
 reconnectBtn = document.querySelector(".reconnect");
