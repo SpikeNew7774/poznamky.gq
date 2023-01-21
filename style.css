@@ -252,6 +252,8 @@ form button{
 
 
 
+
+
 .popup-ichecker {
   position: absolute;
   left: 50%;
@@ -274,7 +276,7 @@ form button{
 .popup-ichecker.online {
   border-color: #2ECC71;
 }
-.popup-ichecker .icon i {
+.popup-ichecker .iconIC i {
   width: 40px;
   height: 40px;
   display: flex;
@@ -287,7 +289,7 @@ form button{
   background: #EA4D67;
   margin-top: 15px;
 }
-.popup-ichecker.online .icon i {
+.popup-ichecker.online .iconIC i {
   background: #2ECC71;
 }
 .popup-ichecker .title {
